@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juliu\\source\\repos\\Homework1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3C0B78-7D31-411E-8718-D7DD9AAE3503}|Homework1\\Homework1.csproj|c:\\users\\juliu\\source\\repos\\homework1\\homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3C0B78-7D31-411E-8718-D7DD9AAE3503}|Homework1\\Homework1.csproj|solutionrelative:homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juliu\\source\\repos\\Homework1\\Homework1\\Program.cs",
+              "RelativeDocumentMoniker": "Homework1\\Program.cs",
+              "ToolTip": "C:\\Users\\Juliu\\source\\repos\\Homework1\\Homework1\\Program.cs",
+              "RelativeToolTip": "Homework1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:28:16.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
